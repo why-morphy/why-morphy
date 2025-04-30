@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Just Me:
 <br>🌆 Actively participating in events and hackathons since high-school.<br>☢️ I am currently learning core of c++ (solving leetcode tasksss as much as possible).<br>📔 Doing BSCS in Inha University in Tashkent(currently in 3rd semester).<br>📺 Apart from programming, I usually create CGI animation in blender and unreal engine 5.<br>🎮 I like playing games and watching movies ;).<br>
 
 
@@ -10,8 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=why-morphy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=why-morphy&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=why-morphy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=why-morphy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
