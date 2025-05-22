@@ -28,15 +28,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="36" alt="sdl logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/opengl/5586A4" height="36" alt="opengl logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="36" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="36" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="36" alt="unrealengine logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="36" alt="blender logo"  />
   <img width="12" />
@@ -45,12 +39,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=why-morphy&radius=16&theme=github-dark-dimmed&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/why-morphy/why-morphy/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Low-level code, high-level fun.<br>C/C++/C#, SDL, Unity, Blender, and a touch of Python.<br>Just here to build cool things.</h2>
 
 ###
