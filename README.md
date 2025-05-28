@@ -5,13 +5,14 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=why-morphy&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=why-morphy&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=why-morphy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=why-morphy&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=why-morphy&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="right" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhpZDk0azFobjVndHdqeHg4cHJqNjk5a21ycnR6Z3A2OTNhMzBjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BOPrq7m5jYS1W/giphy.gif"  />
+<img align="right" height="240" src="https://media.giphy.com/media/DKBNw2vrTdzANEV5ec/giphy.gif?cid=ecf05e47bdsyplv12xppqp96868w29fi03vy1uzu58oc75f0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -39,6 +40,8 @@
   <img src="https://skillicons.dev/icons?i=unreal" height="36" alt="unrealengine logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="36" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="36" alt="cmake logo"  />
 </div>
 
 ###
