@@ -5,13 +5,13 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=why-morphy&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=why-morphy&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=why-morphy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=why-morphy&locale=en&mode=weekly&theme=aura_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/DKBNw2vrTdzANEV5ec/giphy.gif?cid=ecf05e47ix7g2om8z0j1qo4ywwy6kgfgdrsk65t92cyzazwl&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="200" src="https://i.gifer.com/2iiE.gif"  />
 
 ###
 
@@ -35,6 +35,18 @@
   <img src="https://skillicons.dev/icons?i=blender" height="36" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="36" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="36" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="36" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="36" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="36" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="36" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" alt="figma logo"  />
 </div>
 
 ###
